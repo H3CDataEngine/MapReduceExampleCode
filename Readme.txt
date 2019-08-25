@@ -4,8 +4,8 @@ MapReduceExampleCode/
   |Readme.txt                      --介绍文档
   |mapreduce-example-normal/       --非Kerberos环境下样例代码
      |pom.xml                      --pom文件
-     |src/	                   --操作HDFS文件系统样例代码（创建目录、文件等）
+     |src/	                   --mapreduce词频统计样例代码（创建目录、文件等）
   |mapreduce-example-security/     --Kerberos环境下样例代码
      |pom.xml			   --pom文件
-     |src/	                   --操作HDFS文件系统样例代码（创建目录、文件等）
+     |src/	                   --mapreduce词频统计样例代码（创建目录、文件等）
 
