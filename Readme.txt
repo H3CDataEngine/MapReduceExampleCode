@@ -1,4 +1,4 @@
-﻿该工程为H3C DataEngine产品中HDFS组件提供样例代码，而且区分kerberos环境和非kerberos环境。该工程的目录结构介绍：
+﻿该工程为H3C DataEngine产品中MapReduce组件提供样例代码，而且区分kerberos环境和非kerberos环境。该工程的目录结构介绍：
 
 MapReduceExampleCode/
   |Readme.txt                      --介绍文档
