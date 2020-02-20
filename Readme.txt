@@ -8,4 +8,5 @@ MapReduceExampleCode/
   |mapreduce-example-security/     --Kerberos环境下样例代码
      |pom.xml			   --pom文件
      |src/	                   --mapreduce词频统计样例代码（创建目录、文件等）
-
+编译打包后，在客户端服务器上执行如下命令：
+yarn jar mapreducedemo-1.0-SNAPSHOT.jar com.h3c.mapreduce.SimpleExample <inputPath> <outputPath>
